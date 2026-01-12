@@ -56,7 +56,7 @@ This project demonstrates backend engineering skills including REST API design, 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 
 src/main/java/com/lisa/FinanceManager
@@ -117,7 +117,7 @@ http://localhost:8081
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Category API
 
